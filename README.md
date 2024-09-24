@@ -6,36 +6,10 @@ This is a Vue.js application designed to demonstrate form validation in real-tim
 
 **🔍 Preview**
 Here’s a quick preview of the form UI:
+
 ![image](https://github.com/user-attachments/assets/9602940d-f520-4ebc-be24-9f8b7eb40a85)
 ![image](https://github.com/user-attachments/assets/5c8c7cc2-0543-41e2-88c8-23b96601ffb1)
 
-
-
-📂 Code Structure
-JavaScript: The validation logic for the form is implemented using Vue's Composition API and computed properties to track input values and validate them in real time.
-
-CSS: Custom styles are applied to make the form responsive and visually appealing. Background images, custom buttons, hover states, and error messages enhance the user experience.
-
-💡 How It Works
-Computed Properties: The validation logic is encapsulated in computed properties that update based on the form data.
-
-Dynamic Error Messages: Error messages dynamically appear under the input fields when the user's input doesn't meet the required criteria.
-
-Submit Button State: The submit button is disabled until all fields are valid.
-Here’s a quick preview of the form UI:
-
-
-📂 Code Structure
-JavaScript: The validation logic for the form is implemented using Vue's Composition API and computed properties to track input values and validate them in real time.
-
-CSS: Custom styles are applied to make the form responsive and visually appealing. Background images, custom buttons, hover states, and error messages enhance the user experience.
-
-💡 How It Works
-Computed Properties: The validation logic is encapsulated in computed properties that update based on the form data.
-
-Dynamic Error Messages: Error messages dynamically appear under the input fields when the user's input doesn't meet the required criteria.
-
-Submit Button State: The submit button is disabled until all fields are valid.
 
 **🔧 Features**
 
