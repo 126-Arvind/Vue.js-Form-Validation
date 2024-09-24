@@ -26,8 +26,10 @@ Here’s a quick preview of the form UI:
 **🛠️ Built With**
 
 Vue.js 3: Modern JavaScript framework for building user interfaces.
+
 HTML5 & CSS3: Used for structuring and styling the form.
-JavaScript (ES6): Core logic for form validation.
+**
+JavaScript (ES6):** Core logic for form validation.
 
 **🚀 Usage**
 
