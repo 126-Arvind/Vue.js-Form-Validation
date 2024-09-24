@@ -14,9 +14,13 @@ Here’s a quick preview of the form UI:
 **🔧 Features**
 
 📝 Name Validation: Ensures the Name field is not left empty.
+
 📧 Email Validation: Validates that the email is formatted correctly using a regular expression.
+
 🔒 Password Validation: Ensures that the password is at least 6 characters long.
+
 💬 Live Feedback: Provides real-time feedback to the user about the validity of their inputs.
+
 ✅ Form Submission: The form can only be submitted when all fields are valid.
 
 **🛠️ Built With**
