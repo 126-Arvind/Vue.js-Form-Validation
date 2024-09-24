@@ -28,16 +28,19 @@ Here’s a quick preview of the form UI:
 Vue.js 3: Modern JavaScript framework for building user interfaces.
 
 HTML5 & CSS3: Used for structuring and styling the form.
-**
-JavaScript (ES6):** Core logic for form validation.
+
+JavaScript (ES6): Core logic for form validation.
 
 **🚀 Usage**
 
 **Form Fields:**
 
 Name: Required (cannot be empty).
+
 Email: Must be a valid email format (e.g., example@mail.com).
+
 Password: Must be at least 6 characters long.
+
 
 **Form Validation:**
 
@@ -55,12 +58,16 @@ Upon successful form submission, the form data is logged to the console.
 
 JavaScript: The validation logic for the form is implemented using Vue's Composition API and computed properties to track input values and validate them in real time.
 
+
 CSS: Custom styles are applied to make the form responsive and visually appealing. Background images, custom buttons, hover states, and error messages enhance the user experience.
+
 
 **💡 How It Works**
 
 Computed Properties: The validation logic is encapsulated in computed properties that update based on the form data.
 
+
 Dynamic Error Messages: Error messages dynamically appear under the input fields when the user's input doesn't meet the required criteria.
+
 
 Submit Button State: The submit button is disabled until all fields are valid.
