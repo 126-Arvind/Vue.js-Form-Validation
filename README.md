@@ -8,6 +8,8 @@ This is a Vue.js application designed to demonstrate form validation in real-tim
 Here’s a quick preview of the form UI:
 
 ![image](https://github.com/user-attachments/assets/9602940d-f520-4ebc-be24-9f8b7eb40a85)
+
+**OutPut:** After filling correct details in form
 ![image](https://github.com/user-attachments/assets/5c8c7cc2-0543-41e2-88c8-23b96601ffb1)
 
 
